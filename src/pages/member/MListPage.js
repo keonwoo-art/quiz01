@@ -1,4 +1,4 @@
-import MListCon from "../../containers/members/MListCon"
+import MListCon from "../../containers/member/MListCon"
 
 function MListPage(){
     return(
